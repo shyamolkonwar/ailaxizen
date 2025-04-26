@@ -58,7 +58,7 @@ export default function About() {
             <div>
               <h2 className="text-xl font-semibold text-white mb-2">Our Values</h2>
               <ul className="list-disc pl-6 space-y-1 text-gray-400">
-                <li><span className="font-medium text-white">Innovation:</span> Constantly pushing the boundaries of what's possible with AI</li>
+                <li><span className="font-medium text-white">Innovation:</span> Constantly pushing the boundaries of what&apos;s possible with AI</li>
                 <li><span className="font-medium text-white">Customer Focus:</span> Building solutions that solve real business problems</li>
                 <li><span className="font-medium text-white">Transparency:</span> Being open and honest in all our interactions</li>
                 <li><span className="font-medium text-white">Excellence:</span> Committed to delivering the highest quality products and services</li>

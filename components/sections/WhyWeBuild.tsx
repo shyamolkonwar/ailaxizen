@@ -5,7 +5,7 @@ export default function WhyWeBuild() {
         <div className="flex flex-col items-center bg-gray-900/20 rounded-3xl p-8 md:p-12 border border-gray-700/30">
           <div className="text-center max-w-3xl">
             <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">
-              Why We're Building LaxiZen
+              Why We&apos;re Building LaxiZen
             </h2>
             <p className="text-gray-400">
               We built Laxizen because we saw a gap in the market for a solution that combines the efficiency of AI with the authenticity of human conversation. Traditional cold calling is time-consuming and often ineffective, while existing AI solutions lack the personal touch that&apos;s crucial for building relationships.

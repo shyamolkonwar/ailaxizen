@@ -28,7 +28,7 @@ export default function Testimonials() {
           <div className="space-y-3 text-center">
             <h2 className="text-3xl md:text-4xl font-bold">What People Are Saying</h2>
             <p className="text-muted-foreground max-w-[700px]">
-              Don't just take our word for it - hear from our early users.
+              Don&apos;t just take our word for it - hear from our early users.
             </p>
           </div>
           
